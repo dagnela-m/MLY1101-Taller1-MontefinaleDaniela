@@ -6,6 +6,6 @@ API 1: Google Books
 API 2: Gutendex  
 API 3: Open Library
  
-Registros API 1: 377 registros
-Registros API 2: 224 registros
-Registros API 3: 200 registros
+Registros API 1: 377 registros  
+Registros API 2: 224 registros  
+Registros API 3: 200 registros  
