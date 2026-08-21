@@ -4,8 +4,8 @@ Pregunta u objetivo: ¿Qué información puede recopilarse sobre libros, autores
 
 API 1: Google Books  
 API 2: Gutendex  
-API 3: Penguin Publishing  
+API 3: Open Library
  
-Registros API 1:
-Registros API 2:
-Registros API 3:
+Registros API 1: 377 registros
+Registros API 2: 224 registros
+Registros API 3: 200 registros
